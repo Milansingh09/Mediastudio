@@ -45,7 +45,7 @@ const TABLET = {
 
   textLeft: "6vw",
   textBottom: "5%",
-  // textMaxWidth: "360px",
+  textMaxWidth: "360px",
 };
 
 const MOBILE = {
